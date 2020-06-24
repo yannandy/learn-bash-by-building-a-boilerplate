@@ -258,3 +258,7 @@ cd ..
 ls --color=auto
 touch menlo.otf
 mv menlo.otf fonts/
+find
+find
+cd /workspace/project/website/
+find
