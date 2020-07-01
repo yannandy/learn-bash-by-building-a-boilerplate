@@ -326,3 +326,7 @@ find
 rmdir images/
 ls --color=auto
 rm images/background.jpg
+rmdir images/
+find images/
+rm images/footer.png
+rmdir images/
