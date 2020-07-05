@@ -370,3 +370,4 @@ find -name website
 cd website/
 ls --color=auto
 mv CodeAlly.svg client/assets/icons/
+find
