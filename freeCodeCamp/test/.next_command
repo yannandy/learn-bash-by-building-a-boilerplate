@@ -289,3 +289,22 @@ touch background.png
 rm background.png
 rm background.jpg
 touch background.jpg
+cd ../..
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
+cd../../..
+cd ../../..
+cd..
+ls --color=auto
+cd project/
+ls --color=auto
+cd website/
+cd client/
+ls --color=auto
+cd assets/
+ls --color=auto
+cd images/
+ls --color=auto
+cd ../../..
