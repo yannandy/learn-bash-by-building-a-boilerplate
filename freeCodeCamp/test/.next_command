@@ -416,3 +416,4 @@ cd toms-website/
 ls --color=auto
 cd ..
 find website-boilerplate/
+clear
