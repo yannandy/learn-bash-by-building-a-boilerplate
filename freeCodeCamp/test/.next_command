@@ -409,3 +409,5 @@ cp --help
 find -name toms-website
 cp -r website-boilerplate/ ./freeCodeCamp/reset_files/toms-website/
 cp -r website-boilerplate toms-website
+ls --color=auto
+ls --color=auto
