@@ -417,3 +417,5 @@ ls --color=auto
 cd ..
 find website-boilerplate/
 clear
+echo goodbye
+echo goodbye terminal
