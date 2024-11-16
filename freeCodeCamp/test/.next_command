@@ -285,3 +285,7 @@ mkdir assets
 cd assets/
 mkdir images
 cd images/
+touch background.png
+rm background.png
+rm background.jpg
+touch background.jpg
