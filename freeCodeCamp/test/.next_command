@@ -308,3 +308,4 @@ ls --color=auto
 cd images/
 ls --color=auto
 cd ../../..
+cd images/
