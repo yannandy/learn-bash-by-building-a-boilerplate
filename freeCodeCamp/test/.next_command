@@ -331,3 +331,7 @@ find images/
 rm images/footer.png
 rmdir images/
 ls --color=auto
+mkdir icons
+rm icons/
+rmdir icons/
+mkdir client/assets/icons
