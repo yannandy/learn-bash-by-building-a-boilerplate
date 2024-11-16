@@ -406,3 +406,6 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 cp --help
+find -name toms-website
+cp -r website-boilerplate/ ./freeCodeCamp/reset_files/toms-website/
+cp -r website-boilerplate toms-website
