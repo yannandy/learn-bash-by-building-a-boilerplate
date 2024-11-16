@@ -108,3 +108,4 @@ ls --color=auto
 cd /workspace/project/freeCodeCamp/node_modules/has/src
 ls --color=auto
 more index.js
+cd ..
